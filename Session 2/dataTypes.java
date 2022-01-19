@@ -122,7 +122,7 @@ public class DataTypes {
 		// Primitives cannot store data as multiple values :)
 		// eg: we cannot put lot of data in the same container :)
 		//int numbers = 10, 20, 30; // error
-		//char chr = 'ABCD'; // error.
+		//char chr = 'ABCD'; // error
 
 	}
 
