@@ -2,8 +2,6 @@ import java.util.Scanner;
 
 //Assignment: 2. Whenever a wrong promo code is applied, tell the user whats the right promo code
 
-
-
 public class Assignment_2 {
 
 	public static void main(String[] args) {
