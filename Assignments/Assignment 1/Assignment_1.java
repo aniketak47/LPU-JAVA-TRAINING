@@ -56,7 +56,6 @@ public class Assignment_1 {
 				System.out.println("Amount is Lesser. Please add items worth "+(159-amount)+" more");
 			}
 			
-			
 		}else {
 			System.out.println("Invalid Promo Code");
 		}
