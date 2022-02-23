@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
  */
 /**
  *
- * @author Agarwal
+ * @author Aniket
  */
 public class ChangePassword extends javax.swing.JFrame {
     Connection con=null;
